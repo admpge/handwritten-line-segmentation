@@ -9,7 +9,6 @@ This project aims to develop a system for segmenting handwritten text into indiv
 - [Preprocessing](#preprocessing)
 - [Line Segmentation](#line-segmentation)
 - [Results](#results)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -49,9 +48,6 @@ The line segmentation process is based on the horizontal projection profile meth
 
 ## Results
 The segmented line images are saved in the specified output directory. Each line image is saved as a separate file with a unique identifier. These line images can be further processed for tasks such as character segmentation, feature extraction, and recognition.
-
-## Contributing
-Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the GitHub repository.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
