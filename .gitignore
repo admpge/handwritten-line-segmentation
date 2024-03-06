@@ -1,0 +1,44 @@
+/images
+
+# Python compiled files
+*.pyc
+__pycache__/
+
+# Editor and IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS specific files
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Virtual environment files
+*.env
+*.venv
+env/
+venv/
+
+# Data files and model checkpoints
+*.pkl
+*.h5
+*.pb
+*.pth
+*.pt
+
+# Documentation build artifacts
+docs/_build/
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+.coverage
+coverage.xml
