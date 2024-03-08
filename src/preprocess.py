@@ -73,7 +73,7 @@ def binarize_image(image):
     return binarized
 
 
-def resize_image(image, target_height=512, inter=cv2.INTER_AREA):
+def resize_image(image, target_height=256, inter=cv2.INTER_AREA):
     """
     Resizes an input image to a fixed height while maintaining its aspect ratio.
 
